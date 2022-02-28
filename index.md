@@ -1,4 +1,4 @@
 ## Welcome to S-MORENO Page
 ### LMSGI
-+ https://s-moreno.github.io/salpimienta/
-+ https://s-moreno.github.io/sociedadmonte/
++ [Sal y Pimienta](https://s-moreno.github.io/salpimienta/)
++ [Sociedad de Montaña](https://s-moreno.github.io/sociedadmonte/)
