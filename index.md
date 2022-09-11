@@ -1,4 +1,3 @@
-## ¡Bienvenidos!
 Me llamo Sergio y estoy estudiando Desarrollo de aplicaciones web (DAW) en [BirtLH](https://birt.eus)
 
 BirtLH es el único centro público dependiente del Departamento de Educación del Gobierno Vasco que ofrece titulaciones de formación profesional en las modalidades telemática y semipresencial.
@@ -19,12 +18,3 @@ BirtLH es el único centro público dependiente del Departamento de Educación d
 - [ ] _Despliegue de aplicaciones web_
 - [ ] _Formación en Centros de Trabajo_
 - [ ] _Proyecto de desarrollo de aplicaciones web_
-
-## Tareas Evaluativas
-
-### LMSGI
-+ [Sal y Pimienta](https://s-moreno.github.io/salpimienta/)
-+ [Sociedad de Montaña](https://s-moreno.github.io/sociedadmonte/)
-
-### Entornos de desarrollo
-+ [Javadoc UD04-TE1](https://s-moreno.github.io/ED04-TE1-JAVADOC/)
