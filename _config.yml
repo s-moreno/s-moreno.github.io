@@ -1,11 +1,11 @@
 remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
   - jekyll-remote-theme
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
+title: "Estudiando DAW"
+author: "Sergio (s-moreno"
+description: "Página personal de Desarrollo de aplicaciones web"
 permalink: /:title/
-lang: "en"
+lang: "es"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -22,8 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:smoreno@birt.eus"}
+  - {title: Github, icon: github, url: "https://github.com/s-moreno"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
