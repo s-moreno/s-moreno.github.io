@@ -1,4 +1,5 @@
-remote_theme: niklasbuschmann/contrast@v2.11
+# remote_theme: niklasbuschmann/contrast@v2.11
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-remote-theme
 title: "Estudiando DAW"
