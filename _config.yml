@@ -1,35 +1,34 @@
 # remote_theme: niklasbuschmann/contrast@v2.11
-remote_theme: cotes2020/jekyll-theme-chirpy@v5.2.1
+remote_theme: bitbrain/jekyll-dash
 plugins:
   - jekyll-remote-theme
-title: "Estudiando DAW"
-author: "Sergio (s-moreno"
-description: "Página personal de Desarrollo de aplicaciones web"
-permalink: /:title/
-lang: "es"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
 
-# Layout
+# jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num/"
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+dash:
+  # the way how dates should be displayed
+  date_format: "%b %-d, %Y"
 
-# Menu
+  # the animation speed of the post scroll-in effect
+  animation_speed: 50
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md"}
-  - {file: "tareas.md"}
+  # wether to enable Right-to-Left support or not
+  rtl: false
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:smoreno@birt.eus"}
-  - {title: Github, icon: github, url: "https://github.com/s-moreno"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  # Replaces the default avatar provider (gravatar)
+  #avatar_source: github
+  #github_username: s-moreno
+  #avatar_source: local
+  #avatar_path: /assets/avatar.png
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://twitter.com/s-moreno
+      icon: twitter-square
+      color: cyan
+  
+  # wether the author box should be displayed or not
+  show_author: true
