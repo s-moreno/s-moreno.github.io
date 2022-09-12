@@ -1,7 +1,3 @@
-Me llamo Sergio y estoy estudiando Desarrollo de aplicaciones web (DAW) en [BirtLH](https://birt.eus)
-
-BirtLH es el único centro público dependiente del Departamento de Educación del Gobierno Vasco que ofrece titulaciones de formación profesional en las modalidades telemática y semipresencial.
-
 ## Asignaturas
 
 - [x] ~~Programación (2021/2022)~~
