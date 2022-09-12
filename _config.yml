@@ -1,7 +1,17 @@
-# remote_theme: niklasbuschmann/contrast@v2.11
+title: Sergio
+author: s-moreno
+email: smoreno@birt.eus
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: false # set to true to show excerpts on the homepage
+
+
 remote_theme: bitbrain/jekyll-dash
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
 
 # jekyll-paginate
 paginate: 5
@@ -18,17 +28,17 @@ dash:
   rtl: false
 
   # Replaces the default avatar provider (gravatar)
-  #avatar_source: github
-  #github_username: s-moreno
-  #avatar_source: local
-  #avatar_path: /assets/avatar.png
+  avatar_source: github
+  github_username: s-moreno
+  avatar_source: local
+  avatar_path: /assets/avatar.png
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/s-moreno
-      icon: twitter-square
-      color: cyan
+    - url: https://github.com/s-moreno
+      icon: github-square
+      color: purple
   
   # wether the author box should be displayed or not
   show_author: true
