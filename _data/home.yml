@@ -1,5 +1,5 @@
 navbar_entries:
-  - title: asignaturas
+  - title: Asignaturas
     url: asignaturas
 
 project_entries:
@@ -28,10 +28,10 @@ footer_entries:
   - title: BirtLH
     url: https://www.birt.eus/
 
-  - title: github
+  - title: GitHub
     url: https://github.com/s-moreno
 
-  - title: feed
+  - title: Feed
     url: feed.xml
 
 misc_entries:
