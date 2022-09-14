@@ -1,4 +1,7 @@
-## Asignaturas
+---
+layout: post
+title: Asignaturas
+---
 
 - [x] ~~Programación (2021/2022)~~
 - [x] ~~Lenguaje de marcas y sistemas de gestión de la información (2021/2022)~~
