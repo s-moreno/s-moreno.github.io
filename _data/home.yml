@@ -1,0 +1,67 @@
+navbar_entries:
+  - title: asignaturas
+    url: asignaturas
+
+project_entries:
+  - title: Sal y Pimienta
+    url: https://s-moreno.github.io/salpimienta/
+    desc: Tarea evaluativa para la asignatura de Lenguajes de Marca y Sistemas de Gestión de la Información
+    highlight: 2021/2022
+
+  - title: Sociedad de Montaña
+    url: https://s-moreno.github.io/sociedadmonte/
+    desc: Tarea evaluativa para la asignatura de Lenguajes de Marca y Sistemas de Gestión de la Información
+    highlight: 2021/2022
+
+  - title: Javadoc UD04-TE1
+    url: https://s-moreno.github.io/ED04-TE1-JAVADOC/
+    desc: Tarea evaluativa para la asignatura de Entornos de Desarrollo
+    highlight: 2021/2022
+
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
+
+footer_entries:
+  - title: BirtLH
+    url: https://www.birt.eus/
+
+  - title: github
+    url: https://github.com/s-moreno
+
+  - title: feed
+    url: feed.xml
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
