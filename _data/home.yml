@@ -3,8 +3,8 @@ navbar_entries:
     url: asignaturas
 
 project_entries:
-  - title: Sal y Pimienta
-    url: https://s-moreno.github.io/salpimienta/
+  - title: Gestión socios
+    url: https://s-moreno.github.io/gestion-socios/
     desc: Tarea evaluativa para la asignatura de Desarrollo web en entorno cliente (DWEC)
     highlight: 2022/2023
     
