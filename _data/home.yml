@@ -6,7 +6,7 @@ project_entries:
   - title: Gestión de socios
     url: https://s-moreno.github.io/gestion-socios/
     desc: Tarea evaluativa para la asignatura DWEC. Introducción al Javascript
-    highlight: NUEVO
+    highlight: 2022/2023
     
 old_project_entries:   
   - title: Sal y Pimienta
