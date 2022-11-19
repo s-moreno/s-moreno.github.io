@@ -2,6 +2,11 @@
 layout: post
 title: Asignaturas
 ---
+### Cursando 2022/2023
+
+- [ ] **Bases de datos**
+- [ ] **Diseño de interfaces web**
+- [ ] **Desarrollo web en entorno cliente**
 
 ### Curso 2021/2022
 
@@ -12,12 +17,6 @@ title: Asignaturas
 - [x] Formación y orientación laboral
 - [x] Inglés técnico
 - [x] Empresa e Iniciativa Emprendedora
-
-### Curso actual
-
-- [ ] **Bases de datos** (2022/2023)
-- [ ] **Diseño de interfaces web** (2022/2023)
-- [ ] **Desarrollo web en entorno cliente** (2022/2023)
 
 ### Futuro
 - [ ] _Desarrollo web en entorno servidor_
