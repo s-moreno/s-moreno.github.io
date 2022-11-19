@@ -30,7 +30,7 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
-    title_projects: Tareas
+    title_projects: Ejercicios
     title_misc_list: Detalles
     title_blog: Blog
-    title_old_projects: Tareas antiguas
+    title_old_projects: Años anteriores
