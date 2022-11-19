@@ -15,7 +15,7 @@ plugins:
 highlighter: rouge
 
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "< inicio" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
@@ -32,5 +32,5 @@ theme_config:
   home:
     title_projects: Ejercicios
     title_misc_list: Detalles
-    title_blog: Blog
     title_old_projects: Años anteriores
+    title_blog: Blog
