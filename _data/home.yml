@@ -3,6 +3,12 @@ navbar_entries:
     url: asignaturas
 
 project_entries:
+  - title: Gestión de socios
+    url: https://s-moreno.github.io/gestion-socios/
+    desc: Tarea evaluativa para la asignatura DWEC. Introducción al Javascript
+    highlight: NUEVO
+    
+old_project_entries:   
   - title: Sal y Pimienta
     url: https://s-moreno.github.io/salpimienta/
     desc: Tarea evaluativa para la asignatura de Lenguajes de Marca y Sistemas de Gestión de la Información (LMSGI)
@@ -17,12 +23,6 @@ project_entries:
     url: https://s-moreno.github.io/ED04-TE1-JAVADOC/
     desc: Tarea evaluativa para la asignatura de Entornos de Desarrollo (ED)
     highlight: 2021/2022
-
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
 
 footer_entries:
   - title: BirtLH
