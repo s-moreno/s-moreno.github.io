@@ -7,12 +7,12 @@ project_entries:
     url: https://s-moreno.github.io/gestion-socios/
     desc: Tarea evaluativa para la asignatura DWEC. Javascript
     highlight: 2022/2023
-    
+
   - title: Pixel Paint
     url: https://s-moreno.github.io/pixel-paing/
     desc: Tarea evaluativa para la asignatura DWEC. Javascript
     highlight: 2022/2023
-    
+
   - title: Adivina el número
     url: https://s-moreno.github.io/adivina-juego/
     desc: Tarea evaluativa para la asignatura DWEC. Angular
@@ -22,13 +22,12 @@ project_entries:
     url: https://s-moreno.github.io/bikestation/
     desc: Tarea evaluativa para la asignatura DIW.
     highlight: 2022/2023
- 
-   - title: Birt Social
+
+  - title: Birt Social
     url: https://s-moreno.github.io/DIW05-TE/
     desc: Tarea evaluativa para la asignatura DIW.
     highlight: 2022/2023
 
-    
 old_project_entries:   
   - title: Sal y Pimienta
     url: https://s-moreno.github.io/salpimienta/
