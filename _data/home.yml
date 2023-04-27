@@ -2,7 +2,7 @@ navbar_entries:
   - title: Asignaturas
     url: asignaturas
 
-project_entries:
+project_entries:      
   - title: Gestión de socios
     url: https://s-moreno.github.io/gestion-socios/
     desc: Tarea evaluativa para la asignatura DWEC. Javascript
@@ -27,7 +27,12 @@ project_entries:
     url: https://s-moreno.github.io/DIW05-TE/
     desc: Tarea evaluativa para la asignatura DIW.
     highlight: 2022/2023
-
+    
+  - title: Birt LH
+    url: https://s-moreno.github.io/BirtLH/
+    desc: Tarea evaluativa para la asignatura DIW.
+    highlight: 2022/2023
+    
 old_project_entries:   
   - title: Sal y Pimienta
     url: https://s-moreno.github.io/salpimienta/
