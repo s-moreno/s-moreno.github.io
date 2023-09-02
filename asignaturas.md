@@ -7,7 +7,7 @@ title: Asignaturas
 - [ ] **Bases de datos**
 - [ ] **Desarrollo web en entorno cliente**
 
-### Curso 2021/2022
+### Curso 2022/2023
 
 - [x] Diseño de interfaces web
 
