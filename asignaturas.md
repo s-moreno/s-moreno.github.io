@@ -2,11 +2,14 @@
 layout: post
 title: Asignaturas
 ---
-### Cursando 2022/2023
+### Cursando 2023/2024
 
 - [ ] **Bases de datos**
-- [ ] **Diseño de interfaces web**
 - [ ] **Desarrollo web en entorno cliente**
+
+### Curso 2021/2022
+
+- [x] Diseño de interfaces web
 
 ### Curso 2021/2022
 
