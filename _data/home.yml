@@ -4,6 +4,12 @@ navbar_entries:
 
 project_entries:      
   - title: Gestión de socios
+    url: https://s-moreno.github.io/Moreno_Sanchez_Sergio_DWEC02/
+    desc: Tarea evaluativa para la asignatura DWEC. Javascript
+    highlight: 2023/2024
+    
+old_project_entries:   
+  - title: Gestión de socios
     url: https://s-moreno.github.io/gestion-socios/
     desc: Tarea evaluativa para la asignatura DWEC. Javascript
     highlight: 2022/2023
@@ -32,8 +38,7 @@ project_entries:
     url: https://s-moreno.github.io/BirtLH/
     desc: Tarea evaluativa para la asignatura DIW. CSS
     highlight: 2022/2023
-    
-old_project_entries:   
+
   - title: Sal y Pimienta
     url: https://s-moreno.github.io/salpimienta/
     desc: Tarea evaluativa para la asignatura de Lenguajes de Marca y Sistemas de Gestión de la Información (LMSGI)
