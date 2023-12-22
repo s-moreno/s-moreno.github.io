@@ -2,7 +2,12 @@ navbar_entries:
   - title: Asignaturas
     url: asignaturas
 
-project_entries:      
+project_entries:
+  - title: Buscaminas
+    url: https://s-moreno.github.io/Moreno_Sanchez_Sergio_DWEC03/
+    desc: Tarea evaluativa para la asignatura DWEC. Javascript
+    highlight: 2023/2024
+    
   - title: Gestión de socios
     url: https://s-moreno.github.io/Moreno_Sanchez_Sergio_DWEC02/
     desc: Tarea evaluativa para la asignatura DWEC. Javascript
