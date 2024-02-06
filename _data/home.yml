@@ -3,6 +3,11 @@ navbar_entries:
     url: asignaturas
 
 project_entries:
+  - title: Países del mundo
+    url: https://s-moreno.github.io/moreno_sanchez_sergio_DWEC04/
+    desc: Tarea evaluativa para la asignatura DWEC. Javascript
+    highlight: 2023/2024
+
   - title: Buscaminas
     url: https://s-moreno.github.io/Moreno_Sanchez_Sergio_DWEC03/
     desc: Tarea evaluativa para la asignatura DWEC. Javascript
