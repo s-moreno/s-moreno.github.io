@@ -2,17 +2,11 @@
 layout: post
 title: Asignaturas
 ---
-### Cursando 2023/2024
+### Cursando 2024/2025
+- [ ] **Desarrollo web en entorno servidor**
+- [ ] **Despliegue de aplicaciones web**
 
-- [ ] **Bases de datos**
-- [ ] **Desarrollo web en entorno cliente**
-
-### Curso 2022/2023
-
-- [x] Diseño de interfaces web
-
-### Curso 2021/2022
-
+### Cursado
 - [x] Programación
 - [x] Lenguaje de marcas y sistemas de gestión de la información
 - [x] Sistemas informáticos
@@ -20,9 +14,10 @@ title: Asignaturas
 - [x] Formación y orientación laboral
 - [x] Inglés técnico
 - [x] Empresa e Iniciativa Emprendedora
+- [x] Diseño de interfaces web
+- [x] Bases de datos
+- [x] Desarrollo web en entorno cliente
 
 ### Futuro
-- [ ] _Desarrollo web en entorno servidor_
-- [ ] _Despliegue de aplicaciones web_
 - [ ] _Formación en Centros de Trabajo_
 - [ ] _Proyecto de desarrollo de aplicaciones web_
