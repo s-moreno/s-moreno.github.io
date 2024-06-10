@@ -3,6 +3,12 @@ navbar_entries:
     url: asignaturas
 
 project_entries:
+
+  - title: Mercado de divisas
+    url: https://mercado-divisas.web.app/
+    desc: Tarea evaluativa para la asignatura DWEC. Laravel
+    highlight: 2023/2024
+    
   - title: Países del mundo
     url: https://s-moreno.github.io/moreno_sanchez_sergio_DWEC04/
     desc: Tarea evaluativa para la asignatura DWEC. Javascript
